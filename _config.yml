@@ -1,0 +1,28 @@
+name: le olivier photography
+favicon: null
+layout_spectrum: 0.6558044166304171
+typography_spectrum: 0.09662705473601818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.21473342133685946
+  lightness: 0.45848057861439884
+  saturation: 0.19341060752049088
+  rhythmicContrast: 0.22101936256513
+purpose: []
